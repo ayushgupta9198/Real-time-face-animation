@@ -1,4 +1,4 @@
-The Project is real time application in opencv using first order model
+The Project is real time application in opencv using first order model where you can do all animation stuff with your face including your reference image(as per your interest)
 
 # Steps 
 
